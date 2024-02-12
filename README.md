@@ -1,4 +1,4 @@
-# Exercício 02 - Semana 5
+# Exercício 03 - Semana 5
 
 ## Crie uma lista de melhores Jogadores
 
